@@ -1,1 +1,1 @@
-version 1, without tag
+version 2, tagged with 'revision A'
