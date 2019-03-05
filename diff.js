@@ -1,1 +1,1 @@
-version 3, tagged with lightweight tag 'revision B'
+version 4, tagged with tag 'revision C'
