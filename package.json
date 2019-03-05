@@ -8,6 +8,7 @@
     "start": "node ./index.js"
   },
   "dependencies": {
-    "nan": "^2.7.0"
+    "nan": "^2.7.0",
+    "node-gyp": "^3.8.0"
   }
 }
